@@ -5,7 +5,15 @@ Guide for UIC MAD Students
 
 <br/>
 
-<img src="https://github.com/clydeatuic/AndroidJsoup/blob/master/jsoup_demo.gif" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/clydeatuic/AndroidJsoup/blob/master/jsoup_demo.gif" />
+    </td>
+    <td>
+      <img src="https://github.com/clydeatuic/AndroidJsoup/blob/master/jsoup_demo_website.png" height="80%"/>
+    </td>
+  </tr>
 
 <hr/>
 <img src="https://github.com/clydeatuic/CloudDatabase/blob/master/uic.png" height="150" />
